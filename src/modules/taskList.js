@@ -1,4 +1,4 @@
-import Tasks from './tasks.js';
+import Tasks from './tasks';
 
 class TaskList {
   constructor(todoInput, planned, todoBtn, clearBtn) {

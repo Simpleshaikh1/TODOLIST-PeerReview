@@ -1,5 +1,5 @@
 import './style.css';
-import TaskList from './modules/taskList.js';
+import TaskList from './modules/taskList';
 
 const clearBtn = document.querySelector('#clearBtn');
 const todoInput = document.querySelector('#todoInsert');
